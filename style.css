@@ -1,0 +1,216 @@
+/*font-family: 'Open Sans', sans-serif;;
+font-family: 'Roboto', sans-serif; 
+font-family: 'Poppins', sans-serif;  */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+/*---------------- navbar start here----------------*/
+.navbar-brand img {
+    width: 40px !important;
+    height: 40px !important;
+    margin-right: 60px;
+}
+.navbar-toggler{
+    border: none !important;
+    outline: none !important;
+}
+nav .fa-bars{
+    color: #fff !important;
+    font-weight: 800px;
+}
+.navbar-nav li a{
+    color: #fff;
+    float: right;
+    font-family:'Roboto', sans-serif;
+    font-weight: 500;
+    margin-right: 50px;
+}
+nav .fa-shopping-cart{
+    color: #fff;
+    font-size: 15px;
+    padding-right: 5px;
+}
+.cart-btn{
+    margin-left: 200px;
+    padding: 10px;
+    border: 2px solid;
+}
+/*---------NAVBAR END HERE-------------*/
+
+
+
+/*-------------Home START HERE--------------*/
+.head{
+    color: #fff;
+    margin-top: 160px;
+    padding-bottom: 0;
+    font-size: 50px !important;
+    margin-left: 45px;
+    font-family: 'Poppins', sans-serif; 
+    font-weight: 200;
+}
+.sub{
+    color: #fff;
+    font-size: 25px !important;
+    font-weight: 400;
+    overflow: hidden;
+    margin-left: -130px;
+}
+.buy{
+    margin-top: 10px;
+    margin-left: -280px!important;
+}
+.endure{
+     height: 110px;
+     margin-top: 50px;
+     width: 400px;
+     padding: 30px;
+     margin-left: 50px;
+     border-top: white 1px solid;
+}
+.banner{
+    height: 500px;
+    width: 100%;
+    padding-top: 40px;
+}
+/* ---------------HOME END HERE-------------*/
+
+
+/*------about start here------*/
+.abt-left{
+    height: 500px;
+}
+.abt-right{
+    color: #fff;
+    text-align: center;
+    margin-top: 70px;
+    overflow: hidden;
+}
+.abt-sub{
+    color: #fff;
+    text-align: justify;
+    margin-top: 20px;
+    padding-right: 15px;
+}
+/*----------about end here----------*/
+
+/*---------------product start here-----------*/
+.neck{
+    margin-bottom: 15px;
+}
+.item{
+    text-align: center;
+    font-family:'Roboto', sans-serif;
+    margin-top: 30px;
+    overflow: hidden;
+}
+.sub-item{
+    text-align: center;
+    font-family:'Roboto', sans-serif;
+    overflow: hidden;
+    margin-bottom: 30px;
+}
+.container-fluid{
+    position: relative;
+}
+.nora-neck{
+    position: absolute;
+    top: 30%;
+    left: 80%;
+    transform: translate(-50%,-50%);
+}
+.rohit-neck{
+    position: absolute;
+    top: 80%;
+    left: 80%;
+    transform: translate(-50%,-50%);
+}
+.container-fluid{
+    position: relative;
+}
+.twsb{
+    position: absolute;
+    top: 70%;
+    left: 80%;
+    transform: translate(-50%,-50%);
+}
+/*---------------product end here--------------*/
+/* -----------
+.para{
+    color: #121314;
+    font-weight: 500;
+    font-size: 20px;
+    margin-top: 125px;
+    text-align: center;
+}
+.shades{
+    height: 300px;
+    width: 700px;
+}
+.red{
+    height: 300px;
+    width: 700px;
+}*/
+
+/*--------------Contact start here -------------*/
+.keep{
+    overflow: hidden;
+    margin-top: 20px;
+    margin-bottom:10px;
+    font-family: 'Roboto', sans-serif;
+}
+.connect{
+    font-weight: 500;
+    margin: 10px 0;
+    font-size: 20px;
+}
+.icons i{
+    font-size: 25px;
+    padding: 3px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+}
+.links{
+    margin-top: 20px;
+}
+.links ul li {
+    padding: 7px;
+    font-size: 17px;
+    font-family:'Roboto', sans-serif;
+    cursor: pointer;
+    color: black;
+
+}
+.help{
+    overflow: hidden;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+.sub-link{
+    cursor: pointer;
+    margin: 12px !important;
+}
+.icons i:hover{
+    transform: scale(1.4);
+    transition: 0.8s ease-in-out;
+    color: rgba(9, 9, 104, 0.863);
+}
+/*------partners section start-------*/
+.part{
+    height: 200px;
+    width: 250px;
+    margin-right: 15px;
+}
+.parts{
+    margin-top: 70px;
+    height: 280px;
+    width: 250px;
+    color: rgba(35, 34, 39, 0.555);
+}
+.part-head{
+    overflow: hidden;
+}
+/*------------partner ends here-------------*/
